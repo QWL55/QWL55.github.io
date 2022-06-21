@@ -16,4 +16,4 @@ computational health economics, health policy, public health, machine learning
 
 Teaching Interests
 ======
-As a graduate student at the University of Chicago, I have worked as a teaching assistant at [Harris School of Public Policy](https://harris.uchicago.edu/). You can read more about the exact courses and descriptions under [Teaching](https://qiweilin.github.io/teaching/).
+As a graduate student at the University of Chicago, I have worked as a teaching assistant at [Harris School of Public Policy](https://harris.uchicago.edu/). You can read more about the exact courses and descriptions under [Teaching](https://qwl55.github.io/teaching/).
