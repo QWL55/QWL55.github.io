@@ -1,6 +1,6 @@
 ---
 title: "Chicago Open Air Quality Dashboard"
-excerpt: ""
+excerpt: "<br/><img src='/images/openair.PNG'>"
 collection: portfolio
 ---
 
