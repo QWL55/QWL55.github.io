@@ -7,7 +7,7 @@ venue: "University of Chicago, Harris School of Public Policy"
 date: 2021-01-11
 location: "Chicago, IL"
 ---
-Graduate Student Tutor
+Graduate Student Instructor
 
 Winter 2021
 
