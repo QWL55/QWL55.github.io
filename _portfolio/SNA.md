@@ -17,4 +17,4 @@ in the co-authorship network? If so, how does that affect productivity? 3) How t
 a researcher in his/her co-authorship network affects his/her productivity? 4) What implementing
 organizations do scholars usually partner with for the fieldwork of RCTs?
 
-Learn more about this on the [Github](https://github.com/QWL55/MACS-40101-Social-Network-Analysis).
+Learn more about this on the [Github](https://github.com/QWL55/MACS-40101-Social-Network-Analysis). Read the [full paper](http://qwl55.github.io/files/SNA_Final_Project.pdf)
