@@ -1,6 +1,6 @@
 ---
 title: "Intimate Partner Violence in the Democratic Republic of Congo"
-excerpt: "<br/><img src='/images/IPV_map.png'>"
+excerpt: "<br/><img src='/images/IPV_map.PNG'>"
 collection: portfolio
 paperurl: 'http://qwl55.github.io/files/IPV_DRC.pdf'
 ---
