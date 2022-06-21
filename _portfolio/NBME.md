@@ -1,6 +1,6 @@
 ---
 title: "NBME Patient Note Scoring"
-excerpt: "<br/><img src='/images/result_bar.png'>"
+excerpt: "<br/><img src='/images/result_bar.PNG'>"
 collection: portfolio
 paperurl: 'http://qwl55.github.io/files/CMSC_35100_Final_Project.pdf'
 ---
