@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Quantitative Methods
-======
 <span style="color:blue">*PhD Level*</span>: \
 Causal Inference \
 Bayesian Modeling for Social Science I & II \
@@ -21,7 +20,6 @@ Social Network Analysis \
 Advanced Linear Regression
 
 ## Data Science
-=====
 <span style="color:blue">*PhD Level*</span>: \
 Human-Centered Machine Learning
 
@@ -34,7 +32,6 @@ Machine Learning \
 Computer Vision
 
 ## Programming
-=====
 <span style="color:blue">*Master Level*</span>: \
 Python Programming I & II
 
@@ -43,13 +40,11 @@ Statistical Computing (R) \
 Introduction to C++
 
 ## Data Engineering
-=====
 <span style="color:blue">*Master Level*</span>: \
 Databases \
 Cloud Computing
 
-## Social Science and Public Policy:
-======
+## Social Science and Public Policy
 <span style="color:blue">*Master Level*</span>: \
 Epidemiology and Population Health \
 Economic Development and Policy \
@@ -65,8 +60,7 @@ Modeling Political Process \
 Political Economy of Development \
 Chinese Politics
 
-## Mathematics and Statistics:
-=====
+## Mathematics and Statistics
 <span style="color:blue">*Undergraduate Level*</span>: \
 Calculus I & II & III \
 Linear Algebra \
