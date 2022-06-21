@@ -2,6 +2,7 @@
 title: "Academic Collaboration Network in Development Economics"
 excerpt: "<br/><img src='/images/Miguel_Ego.png'>"
 collection: portfolio
+paperurl: 'http://qwl55.github.io/files/SNA_Final_Project.pdf'
 ---
 
 We investigate the network of scholarly collaboration in development economics in this
