@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "I am a research fellow (computational science) at RegLab, Stanford Law School
+  avatar           : "profile.jpg"
+  bio              : "I am a Research Fellow (Computational Science) at RegLab, Stanford Law School
                       with a focus on computational methods and public health"
   location         : "Chicago, IL"
   employer         : "https://reglab.stanford.edu/"
