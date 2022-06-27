@@ -20,4 +20,4 @@ about prior knowledge of statistics or data science, apart from basic mathematic
 introduced in Math Camp. Students with more advanced backgrounds in statistics or econometrics may wish
 to instead consider PPHA 31202, Advanced Statistics for Data Analysis I.
 
-Learn more about this from the [syllabus](http://jacobjameson.github.io/files/Syllabus_PPHA_31002_Fall_2021.pdf).
+Learn more about this from the [syllabus](http://qwl55.github.io/files/Syllabus_PPHA_31002_Fall_2021.pdf).

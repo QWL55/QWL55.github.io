@@ -19,4 +19,4 @@ methods is covered, and the objective of the course is to train students to carr
 machine learning analysis using these, and become informed and critical consumers of machine
 learning research.
 
-Learn more about this from the [syllabus](Machine_Learning_W2021_wlab.pdf).
+Learn more about this from the [syllabus](http://qwl55.github.io/files/Machine_Learning_W2021_wlab.pdf).
