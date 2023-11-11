@@ -17,7 +17,6 @@ Advanced Linear Regression
 Introduction to Spatial Data Science \
 Survey Research Methodology \
 Social Network Analysis \
-Advanced Linear Regression
 
 ## Data Science
 <span style="color:blue">*PhD Level*</span>: \
