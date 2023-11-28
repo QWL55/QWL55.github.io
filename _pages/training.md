@@ -16,7 +16,7 @@ Advanced Linear Regression
 <span style="color:blue">*Master Level*</span>: \
 Introduction to Spatial Data Science \
 Survey Research Methodology \
-Social Network Analysis \
+Social Network Analysis 
 
 ## Data Science
 <span style="color:blue">*PhD Level*</span>: \
