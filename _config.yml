@@ -84,7 +84,7 @@ author:
   avatar           : "soc_pic.png"
   bio              : "I am a PhD student at Stanford Sociology with a focus on computational methods, racial inequalities, and urban sociology"
   location         : "Palo Alto, CA"
-  employer         : "https://sociology.stanford.edu/people/qiwei-lin"
+  employer         : #
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nHIrp4YAAAAJ&hl=en"
   email            : "qiweilin@stanford.edu"
