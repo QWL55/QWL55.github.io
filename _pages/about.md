@@ -15,7 +15,7 @@ I graduated with Honors from [Master of Science in Computational Analysis and Pu
 Publication
 =====
 
-My work has been published in *Nature Scientific Data*. 
+My work has been published on *Nature Scientific Data* and *PLOS Water*. 
 
 Research Interest
 ======

@@ -81,14 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Qiwei Lin"
-  avatar           : "profile.jpg"
-  bio              : "I am a Research Fellow (Computational Science) at RegLab, Stanford Law School
-                      with a focus on computational methods, racial inequalities, and public health"
+  avatar           : "soc_pic.png"
+  bio              : "I am a PhD student at Stanford Sociology with a focus on computational methods, racial inequalities, and urban sociology"
   location         : "Palo Alto, CA"
-  employer         : "https://reglab.stanford.edu"
+  employer         : "https://sociology.stanford.edu/people/qiwei-lin"
   pubmed           :
-  googlescholar    :
-  email            : "qiweilin@law.stanford.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=nHIrp4YAAAAJ&hl=en"
+  email            : "qiweilin@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-9651-0850"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
