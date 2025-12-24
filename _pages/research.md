@@ -103,7 +103,6 @@ author_profile: true
     
     <div class="research-links">
       <a href="https://www.nature.com/articles/s41597-025-04753-y" target="_blank">View Article</a>
-      <a href="https://doi.org/10.1038/s41597-025-04753-y" target="_blank">More Info</a>
     </div>
     
     <button class="abstract-toggle" onclick="toggleAbstract('abstract1')">View Abstract</button>
@@ -125,15 +124,14 @@ author_profile: true
     </div>
     
     <div class="research-links">
-      <a href="https://journals.plos.org/water/article/authors?id=10.1371/journal.pwat.0000326" target="_blank">View Article</a>
-      <a href="https://doi.org/10.1371/journal.pwat.0000326" target="_blank">More Info</a>
+      <a href="https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000326" target="_blank">View Article</a>
     </div>
     
     <button class="abstract-toggle" onclick="toggleAbstract('abstract2')">View Abstract</button>
     
     <div id="abstract2" class="abstract-content">
       <h4>Abstract</h4>
-      <p>This study examines the impact of mandatory minimum penalties and penalty relief mechanisms on compliance within California's clean water program. Using administrative data from the California State Water Resources Control Board, we analyze how different penalty structures affect environmental violations and compliance behavior. Our findings suggest that increased sanctions are associated with decreases in certain violations, while penalty conversions may reduce pollution limit violations. The research highlights the importance of policy design and implementation fidelity in regulatory effectiveness and equity, providing evidence for policymakers on the effectiveness of different enforcement strategies in environmental regulation.</p>
+      <p>Promoting regulatory compliance in the face of limited resources poses a distinct challenge to regulators, who can find within rational choice theory a diverse toolkit of policy levers – ones that change the likelihood that noncompliance is sanctioned, the size of sanctions, or the cost of compliance – but must look beyond theory to understand how such levers actually work in practice. In 1999, California introduced changes to its clean water program that modified each of these components, and in the present work we explore the impact of these changes using a mixed-methods approach. While the state's introduction of $3,000 mandatory minimum penalties for certain Clean Water Act effluent and reporting violations by permitted wastewater facilities reflected a significant step-up in enforcement, the policy also allowed small communities with financial hardship to redirect penalties toward investments in compliance. Our results suggest that the increase in sanctions was associated with decreases in violations with relatively low compliance costs (such as reporting violations), but that there may be considerable mismatch between the scale of penalties and compliance costs for keeping many types of pollutants within regulatory limits, and an underappreciation of critical factors like political pressure that are uncaptured by classical theory. We also find suggestive evidence that penalty conversions reduced pollution limit violations, and highlight tensions between their eligibility criteria and environmental justice. Our case study highlights how policy design and implementation fidelity — how closely a policy is carried out as originally intended — shape regulatory effectiveness and equity, with lessons for regulators and researchers across policy domains.</p>
     </div>
   </div>
 
